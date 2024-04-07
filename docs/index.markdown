@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-<img src="assets/schemapile.jpg" height="auto" width="400">
+<img src="assets/schemapile.png" height="auto" width="400">
 
 
 Access to fine-grained schema information is crucial for understanding how relational databases are designed and used in practice, and for building systems that help users interact with them. Furthermore, such information is required as training data to leverage the potential of large language models (LLMs) for improving data preparation, data integration and natural language querying. Existing single-table corpora such as GitTables provide insights into how tables are structured in-the-wild, but lack detailed schema information about how tables relate to each other, as well as metadata like data types or integrity constraints. On the other hand, existing multi-table (or database schema) datasets are rather small and attribute-poor, leaving it unclear to what extent they actually represent typical real-world database schemas.
@@ -13,7 +13,10 @@ In order to address these challenges, we present SchemaPile, a corpus of 221,171
 
 💾 Dataset: [SchemaPile (Zenodo)](https://zenodo.org/records/10931803).
 
-🤗 Foreign Key Detection Models: [t5-schemapile-fk (HuggingFace)](https://huggingface.co/tdoehmen/t5-schemapile-fk), [starcoder-schemapile-fk (HuggingFace)](https://huggingface.co/tdoehmen/starcoder-schemapile-fk)
+🤗 Foreign Key Detection Models: 
+
+- [t5-schemapile-fk (HuggingFace)](https://huggingface.co/tdoehmen/t5-schemapile-fk)
+- [starcoder-schemapile-fk (HuggingFace)](https://huggingface.co/tdoehmen/starcoder-schemapile-fk)
 
 📄 Code: [Github Repo](https://github.com/amsterdata/schemapile/)
 
