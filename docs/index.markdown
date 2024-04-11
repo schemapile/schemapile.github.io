@@ -8,6 +8,20 @@ SchemaPile is a collection of database schemas, extracted from DDL/DML statement
 
 <img src="assets/schemapile.png" height="auto" width="400">
 
+## Summary statistics
+
+| Dataset                   | SchemaPile | SchemaPile-Perm |
+|---------------------------|-----------:|----------------:|
+| #Schemas                  |    221,171 |          22,989 |
+| #Tables                   |       1.7M |            199K |
+| #Schemas with data        |      75.6K |            7.1K |
+| #Tables with data         |     347.0K |           34.9K |
+| #Columns with data        |       2.2M |          219.0K |
+| #Total data values        |      58.2M |            5.9M |
+| Median #tables per schema |          4 |               4 |
+| Mean #columns per schema  |        6.5 |             6.7 |
+| Mean #values per column   |       27.6 |            28.7 |
+
 ## Usage Example
 
 ```shell
