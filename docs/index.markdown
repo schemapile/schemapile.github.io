@@ -6,9 +6,6 @@ permalink: /
 
 <img src="assets/schemapile.png" height="auto" width="400">
 
-
-## Description
-
 SchemaPile is a collection of database schemas, extracted from DDL/DML statements in SQL files on public code repositories.
 
 ## Summary statistics
