@@ -4,7 +4,8 @@ title: About
 permalink: /
 ---
 
-SchemaPile is a collection of database schemas, extracted from DDL/DML statements in SQL files on public code repositories.
+SchemaPile is a collection of database schemas, extracted from DDL/DML statements in SQL files on public code repositories. 
+We publish code to reproduce SchemaPile and the ready-to-use permissively licensed subset SchemaPile-Perm. 
 
 <img src="assets/schemapile_format_wide.png" height="auto" width="750">
 
