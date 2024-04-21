@@ -80,6 +80,22 @@ print(column_names_schemapile.most_common(5))
 
 📄 Code: [Github Repo](https://github.com/amsterdata/schemapile/)
 
+📝 Paper: [PDF](assets/SchemaPile.pdf)
+
+## Citation
+```
+@article{do2024schemapile,
+title={SchemaPile: A Large Collection of Relational Database Schemas},
+author={D{\"o}hmen, Till and Geacu, Radu and Hulsebos, Madelon and Schelter, Sebastian},
+journal={Proceedings of the ACM on Management of Data},
+volume={2},
+number={3},
+year={2024},
+publisher={ACM New York, NY, USA}
+}
+```
+
+## Contact 
 Please consider reporting cases of personal or otherwise undesired tables in SchemaPile to the email below. Feedback, suggestions and results from projects with SchemaPile are also very welcome!
 
 t . r . doehmen @ uva.nl .
