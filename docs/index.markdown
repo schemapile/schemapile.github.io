@@ -27,7 +27,7 @@ We publish code to reproduce SchemaPile and the ready-to-use permissively licens
 
 ```shell
 -- Download from Zenodo
-curl -O https://zenodo.org/records/10931803/files/schemapile-perm.json.gz
+curl -O https://zenodo.org/records/12681315/files/schemapile-perm.json.gz
 ```
 
 ```python
@@ -71,7 +71,7 @@ print(column_names_schemapile.most_common(5))
 
 ## Links
 
-💾 Dataset: [SchemaPile (Zenodo)](https://zenodo.org/records/10931803)
+💾 Dataset: [SchemaPile (Zenodo)](https://zenodo.org/records/12681315)
 
 🤗 Foreign Key Detection Models: 
 
